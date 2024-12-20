@@ -33,6 +33,6 @@ During my master's degree, I analyzed Virgin Australia's flight performance usin
 
 For personal learning, I developed a Power BI dashboard to analyze sales trends in an US general store. The project involved visualizing key metrics like revenue, product performance, and customer demographics to derive actionable business insights.
 
-# [Project 4: Pizza Sales Analysis Report](https://github.com/MrSapkota/pizza_sales_report_powerbi_-_SQL]
+# [Project 4: Pizza Sales Analysis Report](https://github.com/MrSapkota/pizza_sales_report_powerbi_-_SQL)
 
 For personal learning, I created a Power BI report analyzing pizza sales trends from January to December. Key metrics included total revenue, average order value, and best/worst sellers. Using SQL queries, I analyzed daily and monthly sales trends, top-selling pizza categories, and identified opportunities for growth through targeted promotions and inventory optimization.
