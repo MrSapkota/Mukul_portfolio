@@ -10,6 +10,11 @@ Analyzed five global datasets on population metrics, including height, weight, I
 Preprocessed data by handling missing values, scaling features, and performing exploratory data analysis.
 Engineered features to uncover relationships, such as BMI vs. life expectancy and population density vs. quality of life.
 
+![image](https://github.com/user-attachments/assets/bfa1066c-ae27-418b-a23f-c212e520ebeb)
+
+
+
+
 # [Project: 2 - Weather Prediction Near Heathrow Airport](https://github.com/MrSapkota/weather-station-near-Heathrow-airport-in-London-By-Python)
 Description: This project, completed during my Master's degree, focused on predicting maximum temperature using regression and classification techniques with Python.
 
@@ -25,14 +30,26 @@ Feature Engineering: Performed data scaling, feature selection, and transformed 
 
 Visualization: Used heatmaps, plots, and confusion matrices to interpret relationships and model performance.
 
+![image](https://github.com/user-attachments/assets/83422eaf-cd0c-4a76-809e-ffa19c563630)
+
+
+
 # [Project 3: Virgin Australia Performance Analysis](https://github.com/MrSapkota/Australian-Airline.)
 
 During my master's degree, I analyzed Virgin Australia's flight performance using Tableau and Python. The project focused on identifying trends, patterns, and operational inefficiencies. Key visualizations included heat maps, scatter plots, and geo-visualizations to highlight on-time performance, cancellations, and route efficiency. I developed interactive dashboards to provide actionable insights, improving operational efficiency and customer satisfaction.
+
+![image](https://github.com/user-attachments/assets/b80f20d0-d208-4831-809f-035c42da2358)
+
 
 # [Project 4: Suoer Store Sales Analysis](https://github.com/MrSapkota/pizza_sales_report_powerbi_-_SQL)
 
 For personal learning, I developed a Power BI dashboard to analyze sales trends in an US general store. The project involved visualizing key metrics like revenue, product performance, and customer demographics to derive actionable business insights.
 
+![image](https://github.com/user-attachments/assets/04f4c1b1-c4f8-41c6-bd57-774f82d370a0)
+
+
 # [Project 4: Pizza Sales Analysis Report](https://github.com/MrSapkota/pizza_sales_report_powerbi_-_SQL)
 
 For personal learning, I created a Power BI report analyzing pizza sales trends from January to December. Key metrics included total revenue, average order value, and best/worst sellers. Using SQL queries, I analyzed daily and monthly sales trends, top-selling pizza categories, and identified opportunities for growth through targeted promotions and inventory optimization.
+![image](https://github.com/user-attachments/assets/71e8d342-9f8b-478b-ade0-27b0ba6bafef)
+
