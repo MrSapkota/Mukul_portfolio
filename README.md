@@ -53,3 +53,42 @@ For personal learning, I developed a Power BI dashboard to analyze sales trends 
 For personal learning, I created a Power BI report analyzing pizza sales trends from January to December. Key metrics included total revenue, average order value, and best/worst sellers. Using SQL queries, I analyzed daily and monthly sales trends, top-selling pizza categories, and identified opportunities for growth through targeted promotions and inventory optimization.
 ![image](https://github.com/user-attachments/assets/71e8d342-9f8b-478b-ade0-27b0ba6bafef)
 
+
+# [Project 5: Music store data analysis using ms sql](https://github.com/MrSapkota/Music-store-dataset)
+
+Analyzed a music store dataset using SQL to derive insights such as top-selling artists, most popular genres by country, and customers with the highest spending. Demonstrated advanced SQL skills, including joins, aggregations, subqueries, and CTEs.
+Key Features
+Explored a relational database with tables like Customer, Invoice, Track, Album, Artist, and Genre.
+
+Wrote complex SQL queries to analyze data and generate insights.
+
+Used Microsoft SQL Server (MS SQL) for query execution.
+
+Technologies Used
+SQL
+Microsoft SQL Server (MS SQL)
+
+Example Query
+WITH popular_genre AS (
+    SELECT 
+        customer.country,
+        genre.name AS genre_name,
+        COUNT(invoice_line.quantity) AS purchases,
+        ROW_NUMBER() OVER (PARTITION BY customer.country ORDER BY COUNT(invoice_line.quantity) DESC) AS RowNo
+    FROM invoice_line
+    JOIN invoice ON invoice.invoice_id = invoice_line.invoice_id
+    JOIN customer ON customer.customer_id = invoice.customer_id
+    JOIN track ON track.track_id = invoice_line.track_id
+    JOIN genre ON genre.genre_id = track.genre_id
+    GROUP BY customer.country, genre.name
+)
+SELECT 
+    country,
+    genre_name,
+    purchases
+FROM popular_genre
+WHERE RowNo = 1
+ORDER BY country;
+
+![image](https://github.com/user-attachments/assets/f5af9d55-4be0-4b54-8fc7-038a96cc05d1)
+
