@@ -41,7 +41,7 @@ During my master's degree, I analyzed Virgin Australia's flight performance usin
 ![image](https://github.com/user-attachments/assets/b80f20d0-d208-4831-809f-035c42da2358)
 
 
-# [Project 4: Suoer Store Sales Analysis](https://github.com/MrSapkota/pizza_sales_report_powerbi_-_SQL)
+# [Project 4: Super Store Sales Analysis](https://github.com/MrSapkota/pizza_sales_report_powerbi_-_SQL)
 
 For personal learning, I developed a Power BI dashboard to analyze sales trends in an US general store. The project involved visualizing key metrics like revenue, product performance, and customer demographics to derive actionable business insights.
 
