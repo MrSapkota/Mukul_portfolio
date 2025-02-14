@@ -92,3 +92,26 @@ ORDER BY country;
 
 ![image](https://github.com/user-attachments/assets/f5af9d55-4be0-4b54-8fc7-038a96cc05d1)
 
+
+# [Project 6: Diwali_Sales_Analysis_Using_Python]([https://github.com/MrSapkota/Australian-Airline.](https://github.com/MrSapkota/Diwali_Sales_Analysis_Using_Python)
+
+In this project, I delved into Diwali sales data to uncover customer behavior and sales trends during the festive season. Using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn, I explored various factors influencing sales, including demographics, location, occupation, and product categories. Through data visualization and analysis, I identified key customer segments, popular products, and regional variations in sales. The insights gained from this project could be used to inform targeted marketing campaigns, optimize inventory management, and improve product development strategies for future Diwali seasons.
+
+Key Findings
+
+Most buyers were female, contributing to 65% of total sales.
+![image](https://github.com/user-attachments/assets/6715d0bf-31cc-4188-bef9-6dc01ee6bb28)
+
+The age group of 26-35 years was the most active customer segment.
+
+![image](https://github.com/user-attachments/assets/4f834e36-4b99-4119-8370-02db501d2555)
+
+Sales were concentrated in UP, Maharashtra, and Karnataka, accounting for 40% of total revenue.
+
+![image](https://github.com/user-attachments/assets/7883a24d-11b5-4196-b3a0-3a20df1ab4ea)
+
+Food, clothing, and electronics were the top-selling categories.
+
+![image](https://github.com/user-attachments/assets/a6d16e37-9fb7-4160-a451-276158b301ed)
+
+
