@@ -93,7 +93,7 @@ ORDER BY country;
 ![image](https://github.com/user-attachments/assets/f5af9d55-4be0-4b54-8fc7-038a96cc05d1)
 
 
-# [Project 6: Diwali_Sales_Analysis_Using_Python]([https://github.com/MrSapkota/Australian-Airline.](https://github.com/MrSapkota/Diwali_Sales_Analysis_Using_Python)
+# [Project 6: Diwali_Sales_Analysis_Using_Python]([https://github.com/MrSapkota/Australian-Airline.](https://github.com/MrSapkota/Diwali_Sales_Analysis_Using_Python))
 
 In this project, I delved into Diwali sales data to uncover customer behavior and sales trends during the festive season. Using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn, I explored various factors influencing sales, including demographics, location, occupation, and product categories. Through data visualization and analysis, I identified key customer segments, popular products, and regional variations in sales. The insights gained from this project could be used to inform targeted marketing campaigns, optimize inventory management, and improve product development strategies for future Diwali seasons.
 
