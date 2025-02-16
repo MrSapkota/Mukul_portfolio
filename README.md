@@ -115,3 +115,30 @@ Food, clothing, and electronics were the top-selling categories.
 ![image](https://github.com/user-attachments/assets/a6d16e37-9fb7-4160-a451-276158b301ed)
 
 
+
+# [Project 7: Pizza Hut Database Management System](https://github.com/MrSapkota/Pizza_Sales_SQL/tree/main)
+
+
+Designed and implemented a relational database system for Pizza Hut to manage orders, track sales, and analyze revenue. Developed advanced SQL queries to generate daily revenue reports, cumulative revenue trends, and pizza-type performance analysis. Demonstrated expertise in database design, query optimization, and data analysis.
+
+Key Achievements:
+
+Created a normalized database schema for efficient data storage and retrieval.
+![image](https://github.com/user-attachments/assets/e8b3d21c-d5f0-4fd0-9609-7f43799ef31d)
+
+Developed complex SQL queries using window functions, joins, and aggregations.
+
+![image](https://github.com/user-attachments/assets/07a89dd3-e416-4840-a8a8-888037968a51)
+
+![image](https://github.com/user-attachments/assets/5d3f7385-e437-4178-95d7-6eca60b7c199)
+
+
+
+Delivered actionable insights to optimize menu offerings and pricing strategies.
+![image](https://github.com/user-attachments/assets/7c7f33cd-712c-47ec-980a-8cdde0e2a806)
+
+![image](https://github.com/user-attachments/assets/7351178c-dd2a-4cd1-ace9-e21b2e7e2ac1)
+
+
+
+
