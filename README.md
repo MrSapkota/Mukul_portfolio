@@ -141,4 +141,79 @@ Delivered actionable insights to optimize menu offerings and pricing strategies.
 
 
 
+# [Project 8: Exploratory Data Analysis & logistic regression on titanic dataset](https://github.com/MrSapkota/EDA_Titanic_dataset/tree/main)
+
+The Titanic dataset provides a fascinating opportunity to analyze passenger demographics and understand the factors influencing survival in the tragic sinking. In this project, I performed exploratory data analysis (EDA) to gain insights into this historical event and prepare the data for predictive modeling. I leveraged Python libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
+
+Data Understanding
+
+My initial step involved gaining familiarity with the dataset's structure and contents. Using functions like head(), info(), and describe(), I examined the first few rows, data types, missing values, and summary statistics of various features.
+
+df.head() output displaying the first few rows and columns.
+![image](https://github.com/user-attachments/assets/fa60b903-23a1-47ac-90ca-6aece73a13ac)
+
+Screenshot 2: Output of df.info() showing data types and missing values.
+![image](https://github.com/user-attachments/assets/371cec37-bcb4-4110-9dbe-44eaaadb4c36)
+
+Screenshot 3: Output of df.describe() providing descriptive statistics for numerical feature
+![image](https://github.com/user-attachments/assets/2fc02280-e37a-4133-8d55-f6957b6ef130)
+
+Data Cleaning
+
+Data quality is crucial for accurate analysis. I identified and addressed missing values in columns like 'Age', 'Cabin', and 'Embarked'. For numerical features like 'Age', I employed imputation using the mean or median. For categorical features like 'Embarked', I used the mode for imputation.
+
+ Code snippet demonstrating imputation techniques (e.g., filling missing 'Age' with the mean).
+ ![image](https://github.com/user-attachments/assets/a53d75ed-b043-4109-815e-9020360880be)
+![image](https://github.com/user-attachments/assets/8c4498a3-1c79-4a1b-98bf-fc3005035a15)
+![image](https://github.com/user-attachments/assets/9ab71f32-786c-43ec-916a-3f4f9172edf6)
+
+Screenshot 5: Output of df.isnull().sum() after cleaning, showing no missing values.
+
+![image](https://github.com/user-attachments/assets/8f6a8b24-44c9-47a6-aaa3-571e7b1798d8)
+
+
+Univariate and Bivariate Analysis
+
+To uncover patterns and relationships within the data, I performed univariate and bivariate analyses using various visualizations.
+
+Histogram or count plot showing the distribution of the target variable 'Survived'.
+![image](https://github.com/user-attachments/assets/5cd0f72e-107c-45ef-8908-da05cc498eea)
+
+Count plots or bar charts comparing survival rates across different categories like 'Pclass' (passenger class) and 'Sex'.
+![image](https://github.com/user-attachments/assets/2295010d-f414-4ecf-aa7a-b7179191aa08)
+
+ Scatter plot illustrating the relationship between numerical features like 'Age' and 'Fare'.
+
+![image](https://github.com/user-attachments/assets/294668b5-dc7e-4365-b0ca-6a20f6db5d98)
+
+![image](https://github.com/user-attachments/assets/3e7f7c94-38e5-416b-ac8a-24a81b2f019f)
+
+Logistic Regression Model
+
+![image](https://github.com/user-attachments/assets/0dd26c04-22f3-4635-8cd0-6c2df9e4cfc5)
+![image](https://github.com/user-attachments/assets/d9d1a2ab-4699-473b-94c3-f8db4373d449)
+
+Model Evaluation and Insights
+
+![image](https://github.com/user-attachments/assets/d6c74827-08c3-4f6b-9152-594e2f28cb29)
+
+![image](https://github.com/user-attachments/assets/dc0b8287-b561-455d-9f14-95dc92ce51e9)
+
+Key Findings and Insights
+
+Through the EDA process, I unearthed valuable insights regarding passenger survival:
+
+Passenger Class: Passengers in higher classes (1st and 2nd) had a significantly higher survival rate compared to those in 3rd class. This observation suggests a correlation between socioeconomic status and survival.
+Gender: Female passengers had a much higher survival rate than male passengers. This finding reflects the "women and children first" protocol followed during the evacuation.
+Age: Age played a role in survival, with children and younger adults having a higher likelihood of survival.
+
+Conclusion
+
+This EDA provided valuable insights into the factors influencing passenger survival on the Titanic. By cleaning the data, visualizing patterns, and exploring relationships between variables, I prepared the dataset for machine learning modeling. Further steps could include feature engineering, model selection, and evaluation to develop predictive models for survival based on passenger characteristics. I believe this project demonstrates my proficiency in data analysis, visualization, and storytelling. It highlights my ability to extract meaningful insights from complex datasets and prepare data for further analysis and model building.
+
+
+
+
+
+
 
