@@ -212,6 +212,34 @@ Conclusion
 This EDA provided valuable insights into the factors influencing passenger survival on the Titanic. By cleaning the data, visualizing patterns, and exploring relationships between variables, I prepared the dataset for machine learning modeling. Further steps could include feature engineering, model selection, and evaluation to develop predictive models for survival based on passenger characteristics. I believe this project demonstrates my proficiency in data analysis, visualization, and storytelling. It highlights my ability to extract meaningful insights from complex datasets and prepare data for further analysis and model building.
 
 
+# [Project 9: Netflix Dashboard Visualizaton (Tableau)](https://github.com/MrSapkota/Netflix_Analysis_Tableau)
+
+📊 Netflix Dashboard Visualization (Tableau)
+Overview:
+Developed an interactive Netflix Dashboard in Tableau to analyze and visualize Netflix's content library, offering insights into movies and TV shows based on year, genre, country, and ratings.
+
+Key Features:
+
+🌍 Global Content Distribution: Mapped total movies & TV shows by countries.
+🎬 Content Breakdown: Visualized the distribution between movies (68.42%) and TV shows (31.58%).
+📅 Yearly Trends: Highlighted the growth of Netflix’s library over time.
+📈 Top 10 Genres: Showcased popular genres like Documentaries, Stand-Up Comedy, and Dramas.
+⭐ Ratings Analysis: Breakdown of content ratings (e.g., TV-MA, TV-14).
+⏱ Duration & Release: Insights on show durations and release years.
+📝 Dynamic Descriptions: Interactive details for individual movies/TV shows.
+Tools Used:
+
+Tableau for data visualization
+Python (optional) for data preprocessing
+Netflix Titles Dataset
+💡 Insights:
+
+Significant rise in Netflix’s content post-2015.
+U.S. dominates the content library, followed by India and the U.K.
+Documentaries and Stand-Up Comedy are among the top genres.
+
+![image](https://github.com/user-attachments/assets/798d442c-0440-423d-8a21-c4924c7491f6)
+
 
 
 
