@@ -279,12 +279,15 @@ The dataset includes:
 
    ![image](https://github.com/user-attachments/assets/48115c44-c544-42e9-b57a-63b04cf5f6c1)
 
-
+⚡ Insights & Observations
+Maharashtra recorded the highest death toll.
+The 20-29 age group was most affected.
+Vaccination rates for the second dose lagged behind the first dose significantly.
+Gender distribution appeared balanced, possibly due to data normalization.
 ---
 
 ## 🛠️ Tools & Technologies
 - **Data Visualization:** Tableau  
-- **Data Preprocessing:** Python/Excel (mention if used)  
 - **Data Format:** CSV  
 
 
