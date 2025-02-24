@@ -241,6 +241,53 @@ Documentaries and Stand-Up Comedy are among the top genres.
 ![image](https://github.com/user-attachments/assets/798d442c-0440-423d-8a21-c4924c7491f6)
 
 
+# [Project 10: Covid-19-India-Dashboard-using-Tableau](https://github.com/MrSapkota/-Covid-19-India-Dashboard-using-Tableau-)
+
+🦠 Covid-19 India Dashboard 📊
+
+A comprehensive Tableau dashboard visualizing the impact of Covid-19 in India. This project provides insights into case distributions, testing patterns, vaccination drives, and demographic details across Indian states.
+
+---
+
+## 📁 Dataset Overview
+The dataset includes:
+- **Covid-19 Cases:** State-wise confirmed, cured, and death counts.
+- **Age Group Analysis:** Distribution of cases across age demographics.
+- **Testing Data:** State-wise lab availability and total tests conducted.
+- **Vaccination Data:** State-wise vaccine doses administered (CoviShield, Covaxin, Sputnik V).
+- **Demographics:** Gender distribution and age-based infection patterns.
+
+---
+
+## 📊 Dashboard Highlights
+1. **🗺️ Total Deaths by State:**  
+   Heatmap highlighting states with the highest death counts (e.g., Maharashtra).
+
+2. **📈 Covid Cases by State (Dual Axis):**  
+   Line chart comparing confirmed, cured, and death cases over time.
+
+3. **💉 Vaccination Insights:**  
+   - First vs. Second dose comparisons.  
+   - Breakdown of vaccine types administered.
+
+4. **👥 Age & Gender Analysis:**  
+   - Pie chart showing age distribution of cases.  
+   - Gender-wise split of infected individuals.
+
+5. **🏥 Testing Infrastructure:**  
+   Bar chart showing the number of ICMR-approved labs per state.
+
+   ![image](https://github.com/user-attachments/assets/48115c44-c544-42e9-b57a-63b04cf5f6c1)
+
+
+---
+
+## 🛠️ Tools & Technologies
+- **Data Visualization:** Tableau  
+- **Data Preprocessing:** Python/Excel (mention if used)  
+- **Data Format:** CSV  
+
+
 
 
 
