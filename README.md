@@ -288,7 +288,78 @@ Gender distribution appeared balanced, possibly due to data normalization.
 
 ## 🛠️ Tools & Technologies
 - **Data Visualization:** Tableau  
-- **Data Format:** CSV  
+- **Data Format:** CSV
+
+
+# [Project 11: Employee Retention Prediction 🚀](https://github.com/MrSapkota/employee_retention_prediction)
+
+📌 Overview
+In this project, I built a machine learning model to predict employee attrition and retention using various classification algorithms. The goal is to help companies identify the key factors influencing employee turnover and take proactive measures to improve retention.
+
+🔍 Problem Statement
+Employee retention is a major concern for organizations. High turnover rates lead to increased hiring costs and productivity losses. This project aims to develop predictive models that can forecast whether an employee is likely to leave based on factors like salary, job satisfaction, work environment, and more.
+
+🛠 Tools & Technologies
+Programming Language: Python 🐍
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Machine Learning Models:
+Logistic Regression
+Random Forest
+K-Nearest Neighbors (KNN)
+Evaluation Metrics: Accuracy, F1-Score, Precision, Recall
+📊 Approach & Methodology
+1️⃣ Data Collection & Preprocessing:
+
+Handled missing values
+
+Encoded categorical features
+
+Scaled numerical data
+
+2️⃣ Exploratory Data Analysis (EDA):
+
+Visualized employee turnover trends
+
+Identified key factors affecting retention
+
+3️⃣ Model Training & Evaluation:
+
+Compared multiple models to find the best one
+
+Used Accuracy & F1-Score for performance assessment
+
+4️⃣ Feature Importance Analysis:
+
+Identified key drivers of employee attrition
+🏆 Results & Key Findings
+✅ The Logistic Regression achieved the highest accuracy and F1-score.
+✅ Key factors influencing employee retention include salary, job satisfaction, work-life balance, and work environment.
+✅ Companies can reduce attrition by improving these areas, as shown in feature importance analysis.
+
+📷 
+
+![image](https://github.com/user-attachments/assets/f50691c6-8c3c-4f98-95fe-66257f3b5b74)
+
+✅ Confusion Matrix (for model performance)
+
+
+![image](https://github.com/user-attachments/assets/5d4fe98b-2d68-4e48-b2f6-a8965519bdf8)
+
+
+✅ Comparative Accuracy/F1-Score Graph
+
+
+![image](https://github.com/user-attachments/assets/0d5adb85-4c50-4404-b973-4a4da2f0ec5c)
+
+![image](https://github.com/user-attachments/assets/a9de1565-055f-461a-8f54-f9a48aaf2be8)
+
+![image](https://github.com/user-attachments/assets/8e0cdf7a-0a88-4896-b160-0f51c692494d)
+
+![image](https://github.com/user-attachments/assets/0b7b8fa9-29f7-4c33-a886-4866bbd974f1)
+
+![image](https://github.com/user-attachments/assets/fb42caad-aed8-4831-a48d-608fb717e81e)
+
+✅ EDA Visualizations (such as employee attrition trends, salary distribution, etc.)
 
 
 
