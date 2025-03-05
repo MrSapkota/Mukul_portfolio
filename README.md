@@ -332,8 +332,11 @@ Used Accuracy & F1-Score for performance assessment
 
 Identified key drivers of employee attrition
 🏆 Results & Key Findings
+
 ✅ The Logistic Regression achieved the highest accuracy and F1-score.
+
 ✅ Key factors influencing employee retention include salary, job satisfaction, work-life balance, and work environment.
+
 ✅ Companies can reduce attrition by improving these areas, as shown in feature importance analysis.
 
 📷 
