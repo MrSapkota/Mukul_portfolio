@@ -365,7 +365,7 @@ Identified key drivers of employee attrition
 ✅ EDA Visualizations (such as employee attrition trends, salary distribution, etc.)
 
 
-# [Project 12: [Vendor Performance Data Analytics](https://github.com/MrSapkota/Vendor-Performance-Data-Analytics-Project)
+# [Project 12: Vendor Performance Data Analytics](https://github.com/MrSapkota/Vendor-Performance-Data-Analytics-Project)
 
 This end-to-end data analytics project involved handling and analyzing a large-scale dataset comprising millions of purchase, sales, vendor, and inventory records from the retail and wholesale industry. 
 
