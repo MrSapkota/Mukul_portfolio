@@ -365,6 +365,33 @@ Identified key drivers of employee attrition
 ✅ EDA Visualizations (such as employee attrition trends, salary distribution, etc.)
 
 
+# [Project 12: [Vendor Performance Data Analytics](https://github.com/MrSapkota/Vendor-Performance-Data-Analytics-Project)
+
+This end-to-end data analytics project involved handling and analyzing a large-scale dataset comprising millions of purchase, sales, vendor, and inventory records from the retail and wholesale industry. 
+
+The project’s scope included building a robust data pipeline, cleaning and integrating fragmented raw data, performing insightful exploratory data analysis, and developing actionable vendor and inventory performance metrics.
+
+Using Python (pandas, SQLAlchemy) and SQLite, I developed an automated ETL pipeline to ingest millions of transactional records from multiple CSV files into a centralized database. This ensured efficient, repeatable data loading, transformation, and quality assurance with detailed logging for traceability.
+
+Advanced SQL queries and Python data processing were employed to aggregate critical sales, purchase, pricing, freight, and inventory metrics at the vendor and brand level. Key business insights derived include identifying underperforming brands, vendor concentration risks, cost-saving opportunities through bulk purchasing, inventory turnover optimization, and profitability variance analysis between vendor groups.
+
+I created interactive Power BI dashboards to visualize findings dynamically, empowering stakeholders from procurement, sales, operations, finance, and management to make informed, data-driven decisions on pricing, vendor negotiations, inventory management, and marketing strategies.
+
+This project demonstrates my ability to work with large datasets spanning millions of records, architect scalable data solutions, extract meaningful business value, and communicate insights through compelling data visualizations.
+
+<img width="1110" height="558" alt="image" src="https://github.com/user-attachments/assets/c396e2b7-c5d0-434f-826b-655214e19ec0" />
+
+<img width="1123" height="378" alt="image" src="https://github.com/user-attachments/assets/1cc1af01-9d50-4efb-b800-210a54961404" />
+
+<img width="1100" height="605" alt="image" src="https://github.com/user-attachments/assets/499adedb-459d-4573-83b1-e09d3f8d92dd" />
+
+<img width="1165" height="617" alt="image" src="https://github.com/user-attachments/assets/84910f57-7512-4c88-bea1-6b8a62b2d308" />
+
+
+
+
+
+
 
 
 
